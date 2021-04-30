@@ -1,13 +1,13 @@
 {
-	"name": "@framer/skyscanner.backpack",
-	"description": "Backpack Framer Components",
-	"version": "1.83.0",
-	"main": "dist/index.js",
 	"license": "Apache-2.0",
-	"author": "Artur Sousa",
+	"name": "@framer/perrysmotors.backpack",
+	"description": "Backpack Framer Components",
+	"version": "1.0.0",
+	"main": "dist/index.js",
+	"author": "Giles Perry",
 	"framer": {
 		"displayName": "Backpack",
-		"id": "a4e72b2f-bdba-47b5-8846-1c51bd3be7c8"
+		"id": "494fa69b-8bad-4986-bf2b-7db2a446689d"
 	},
 	"devDependencies": {
 		"@types/react": "^16.8",
