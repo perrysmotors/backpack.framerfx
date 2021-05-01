@@ -1,8 +1,8 @@
-# Backpack Framer
+# Backpack
 
 [Backpack](https://backpack.github.io//?platform=web) is a collection of design resources, reusable components and guidelines for creating Skyscanner's products.
 
-This is the Backpack package for Framer components.
+This is the Framer package for Backpack components.
 
 ## Available Components
 
