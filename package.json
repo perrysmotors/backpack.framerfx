@@ -2,7 +2,7 @@
 	"license": "Apache-2.0",
 	"name": "@framer/perrysmotors.backpack",
 	"description": "Backpack Framer Components",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"main": "dist/index.js",
 	"author": "Giles Perry",
 	"framer": {
@@ -19,6 +19,6 @@
 	},
 	"dependencies": {
 		"@framer/framer.default": "^1.74.0",
-		"backpack-transpiled": "^2.4.0"
+		"backpack-transpiled": "^3.0.1"
 	}
 }
