@@ -22,10 +22,10 @@ import { addPropertyControls, ControlType } from "framer"
 // @ts-ignore
 import BpkCalendar from "backpack-transpiled/bpk-component-calendar"
 // @ts-ignore
-import format = require("date-fns/format")
-const formatDate = (date) => format(date, "DD/MM/YYYY")
-const formatDateFull = (date) => format(date, "do MMMM YYYY")
-const formatMonth = (date) => format(date, "MMMM YYYY")
+import format from "date-fns/format"
+const formatDate = (date) => format(date, "dd/MM/yyyy")
+const formatDateFull = (date) => format(date, "EEEE, do MMMM yyyy")
+const formatMonth = (date) => format(date, "MMMM yyyy")
 const daysOfWeek = [
     {
         name: "Monday",
